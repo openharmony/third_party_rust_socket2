@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "socket2",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.4.9",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/rust-lang/socket2",
+    "Description": "Utilities for handling networking sockets with a maximal amount of configuration possible intended."
+  }
+]
